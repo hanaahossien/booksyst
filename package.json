@@ -1,0 +1,24 @@
+{
+  "name": "ass8_mogoose_express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "keywords": [],
+  "author": "",
+  "engines": {
+    "node":"20.x"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "errorhandler": "^1.5.1",
+    "express": "^4.19.2",
+    "homepage": "1.0.0",
+    "joi": "^17.13.3",
+    "mongoose": "^8.4.4"
+  },
+  "description": ""
+}
