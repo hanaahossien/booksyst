@@ -20,8 +20,4 @@ res.status(err["cause"]).json({"error" :"global error handler","err": err.messag
 })
 
 app.get('/', (req, res) => res.send('Hello World!'))
-<<<<<<< HEAD
-app.listen(port  )
-=======
 app.listen(port)
->>>>>>> 89ece13bd9b5a79e4fbac2d713702989ebca78cd
